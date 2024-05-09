@@ -33,8 +33,8 @@ export const EXPERIENCES = [
     year: "2014 - 2016",
     role: " Secondary School Certificate (SSC)",
     company: "CBSE",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    description: `Class 10 was a pivotal year marked by academic rigor and personal growth. The focus shifted towards board exam preparations, requiring dedicated study and revision. Science experiments and mathematical problem-solving sharpened critical thinking skills. Beyond academics, friendships flourished, creating a supportive environment. School events like sports day promoted teamwork and school spirit. Overall, class 10 was a transformative experience, fostering resilience, time management, and camaraderie, setting a strong foundation for future endeavors.`,
+    technologies: ["CGPA", "95"],
   },
 ];
 

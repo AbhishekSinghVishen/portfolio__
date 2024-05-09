@@ -3,31 +3,25 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am an enthusiastic full stack developer with a strong interest in building reliable and scalable web applications. Over the past few years, I have immersed myself in learning front-end technologies such as React , along with back-end technologies including Node.js, MongoDB, MySQL, and JavaScript. My focus is on utilizing these skills to develop creative solutions that enhance user experiences and contribute to business success. I am eager to apply my knowledge and continue growing in the field of web development, aiming to make a positive impact through innovative and well-crafted projects.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `
+I am a passionate and adaptable aspiring full stack developer with a strong desire to create efficient and user-friendly web applications. While I am new to the industry, I am eager to apply my knowledge and skills in technologies like React,  Node.js, MySQL,  and MongoDB. My journey into web development began out of curiosity about how things work, and I am excited to continue learning and growing in this field. I thrive in collaborative environments and enjoy solving challenging problems to deliver high-quality solutions. Outside of coding, I stay active, explore new technologies, and contribute to open-source projects to expand my skills and experience.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2020 - 2024",
+    role: "Bachelor's of Technology (Computer Science amd Engineering)",
+    company: "AKTU",
+    description: `My B.Tech journey in Computer Science and Engineering was a dynamic blend of theoretical learning and practical application. From mastering programming languages to delving into complex algorithms, each course expanded my understanding of computer science concepts. Collaborative projects and internships allowed me to apply theoretical knowledge to real-world challenges, refining my problem-solving skills. Engaging in hackathons and coding contests sharpened my competitive edge and fostered a spirit of innovation. Beyond academics, networking with industry professionals and attending tech conferences enriched my perspective on emerging technologies. B.Tech CSE was more than a degree—it was a transformative experience that shaped my passion for technology and prepared me for a successful career in the field.`,
+    technologies: ["Skill:", "HTML", "CSS", "React.js", "mySQL", "Python", "JavaScript", ],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    year: "2016 - 2018",
+    role: "Senior School Certificate Examination",
+    company: "CBSE",
+    description: `Class 12 was a transformative year, defined by intense academic preparation for the board exams. From dissecting complex scientific theories to crafting insightful essays in literature, every subject demanded meticulous attention. Practical exams and projects added hands-on experience to our theoretical knowledge. Beyond academics, organizing school events and leading clubs fostered leadership skills. The culmination of class 12 marked not just the end of school but the beginning of new possibilities in higher education. It was a year of growth, challenges, and anticipation for the future.`,
+    technologies: ["Physics", "Chemistry", "Mathematics"],
   },
   {
     year: "2014 - 2016",
@@ -70,7 +64,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "312/14 Bajrang Nagar ,Kanpur, 209304 ",
+  phoneNo: "+91 8957981759 ",
+  email: "abhi209304@gmail.com",
 };

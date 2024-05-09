@@ -30,9 +30,9 @@ export const EXPERIENCES = [
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
+    year: "2014 - 2016",
+    role: " Secondary School Certificate (SSC)",
+    company: "CBSE",
     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
   },

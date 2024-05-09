@@ -1,7 +1,10 @@
 import {RiReactjsLine} from "react-icons/ri"
 import {SiMongodb} from "react-icons/si"
 import {FaNodeJs} from "react-icons/fa"
+import { FaCss3 } from "react-icons/fa";
 import {motion} from 'framer-motion'
+import { SiJavascript } from "react-icons/si";
+import { FaPython } from "react-icons/fa6";
 
 const iconvar = (duration)=>({
     intial:{y:-10},
@@ -35,35 +38,46 @@ const Technologies = () => {
 
             className='rounded-2xl border-4 border-neutral-800 p-4'>
            
-                <RiReactjsLine className="text-7xl "/>
+                <RiReactjsLine className="text-4xl lg:text-7xl text-cyan-400 "/>
             </motion.div>
             <motion.div 
             variants={iconvar(6)}
             intial="initial"
             animate="animate"
             className='rounded-2xl border-4 border-neutral-800 p-4'>
-                <SiMongodb className="text-7xl "/>
+                <SiMongodb className="text-4xl lg:text-7xl text-green-500"/>
             </motion.div>
             <motion.div 
             variants={iconvar(5)}
             intial="initial"
             animate="animate"
             className='rounded-2xl border-4 border-neutral-800 p-4'>
-                <FaNodeJs className="text-7xl "/>
+                <FaNodeJs className="text-4xl lg:text-7xl text-green-500"/>
             </motion.div>
             <motion.div 
             variants={iconvar(3)}
             intial="initial"
             animate="animate"
             className='rounded-2xl border-4 border-neutral-800 p-4'>
-                <FaNodeJs className="text-7xl "/>
+                <FaCss3  className="text-4xl lg:text-7xl text-blue-600 "/>
+                
             </motion.div>
             <motion.div 
             variants={iconvar(4)}
             intial="initial"
             animate="animate"
             className='rounded-2xl border-4 border-neutral-800 p-4'>
-                <FaNodeJs  className="text-7xl "/>
+                <SiJavascript className="text-4xl lg:text-7xl text-yellow-400" />
+                
+            </motion.div>
+            <motion.div 
+            variants={iconvar(8)}
+            intial="initial"
+            animate="animate"
+            className='rounded-2xl border-4 border-neutral-800 p-4'>
+                <FaPython  className="text-4xl lg:text-7xl text-yellow-400"/>
+                
+                
             </motion.div>
         </motion.div>
     </div>
